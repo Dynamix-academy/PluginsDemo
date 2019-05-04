@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginsDemo", "PluginsDemo\PluginsDemo.csproj", "{ACF5A1DF-4FB6-4C8F-8ACA-5F3DD02AC65F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWorkflowDemo", "CustomWorkflowDemo\CustomWorkflowDemo.csproj", "{373DF5DA-04DD-4977-AA2D-5E40C31BCA7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACF5A1DF-4FB6-4C8F-8ACA-5F3DD02AC65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF5A1DF-4FB6-4C8F-8ACA-5F3DD02AC65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF5A1DF-4FB6-4C8F-8ACA-5F3DD02AC65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF5A1DF-4FB6-4C8F-8ACA-5F3DD02AC65F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373DF5DA-04DD-4977-AA2D-5E40C31BCA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373DF5DA-04DD-4977-AA2D-5E40C31BCA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373DF5DA-04DD-4977-AA2D-5E40C31BCA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373DF5DA-04DD-4977-AA2D-5E40C31BCA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4B507C-DF78-4050-9FF4-63007C01BE7B}
+	EndGlobalSection
+EndGlobal
